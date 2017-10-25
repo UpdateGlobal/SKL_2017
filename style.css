@@ -2245,6 +2245,7 @@ input[type="submit"] {
 
 .content-featured p {
 	margin: 0;
+	text-align: center;
 }
 
 .content-featured a {
