@@ -168,7 +168,6 @@ h2 {
 	border-bottom: 1px solid #e5e5e5;
 	padding-bottom: 10px;
 	margin-bottom: 25px;
-	margin-top: 30px;
 	text-align: center;
 }
 
@@ -568,7 +567,7 @@ ul#navlist li a.selected {
 }
 
 .iconbox > a:hover {
-	background-color: #ebe4ef;
+	background-color: #fafafa;
 }
 
 .iconbox p:last-child {
@@ -1850,7 +1849,7 @@ input[type="submit"] {
 	color: #808080;
 	background-color: #1a1a1a;
 	font-size: 0.916em; /* 11px */	
-	padding: 30px 0;
+	padding: 12px 0;
 	border-top: 1px solid #000;
 	box-shadow: 0 4px 4px rgba(0,0,0,0.2) inset;
 }
@@ -1865,6 +1864,7 @@ input[type="submit"] {
 	padding: 20px 0 16px;
 	background: url(images/footer-arrow-down.png) no-repeat center top;
 	color: #fff;
+	margin-bottom: 32px;
 }
 
 #footer-featured h1 {
@@ -2234,14 +2234,13 @@ input[type="submit"] {
 /* Featured Content
 /* ---------------------------------------------------------------------- */
 .content-featured {
-	background-color: #72408d;
+	background-color: #1a1a1a;
 	padding: 30px 0;
 	color: #e5e5e5;
 	margin-top: -30px;
 	font-size: 1.333em; /* 16px */
 	line-height: 1.375em; /* 22px/16px */
 	box-shadow: 0 4px 4px rgba(0,0,0,0.4) inset;
-	text-align: center;
 }
 
 .content-featured p {
@@ -2257,7 +2256,7 @@ input[type="submit"] {
 /* Arrow Boxes
 /* ---------------------------------------------------------------------- */
 .arrowbox {
-	
+	border-bottom: 1px solid #d9d9d9;	
 	margin-bottom: 20px;
 }
 
