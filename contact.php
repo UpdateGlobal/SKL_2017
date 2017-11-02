@@ -1,58 +1,12 @@
 <?php
-header('Content-Type: text/html; charset=utf-8');
+$destino="torralbaalejandro@hotmail.com";
+$nombre= $_POST["nombre"];
+$correo= $_POST["correo"];
+$asunto= $_POST["asunto"];
+$telefono= $_POST["telefono"];
+$mensaje= $_POST["mensaje"];
 
-if(isset($_POST['email'])) {
- 
-     
-    // EDIT THE 2 LINES BELOW AS REQUIRED
- 
-    $email_to = "sklsoluciones@gmail.com";
- 
-    $email_subject = "Contacto Formulario Website";
- 
-   
-    $first_name = $_POST['first_name']; // required 
-    $email_from = $_POST['email']; // required
-	$phone = $_POST['phone']; // required
-    $comments = $_POST['message']; // required
- 
-    $email_message = "Form details below.\n\n";
- 
-    
-    function clean_string($string) {
-      $bad = array("content-type","bcc:","to:","cc:","href");
-      return str_replace($bad,"",$string);
-    }
- 
- 
-    $email_message .= "Name: ".clean_string($first_name)."\n";
-    $email_message .= "Email Address: ".clean_string($email_from)."\n";
-	$email_message .= "Phone Number: ".clean_string($phone)."\n";
-    $email_message .= "Message: ".clean_string($comments)."\n";
- 
-     
-// create email headers
- 
-$headers = 'From: '.$email_from."\r\n".
- 
-'Reply-To: '.$email_from."\r\n" .
- 
-'X-Mailer: PHP/' . phpversion();
- 
-@mail($email_to, $email_subject, $email_message, $headers); 
- 
-?>
- 
-<!-- include your own success html here -->
- 
-Thank you for contacting us. We will be in touch with you very soon. 
-
-(\n)
-
-<a href="index.html">Return To The Site</a>
- 
-<?php
- 
-}
+$contenido = "Nombre: " . $nombre . "\nCorreo: " . $correo . "\nAsunto: " . $asunto . "\nTelefono: " . $telefono . "\nMensaje: " . $mensaje;
+mail($destino,"Auton - Tienes un mensaje desde tu web de Contacto", $contenido);
 
 ?>
