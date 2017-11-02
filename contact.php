@@ -8,5 +8,5 @@ $mensaje= $_POST["mensaje"];
 
 $contenido = "Nombre: " . $nombre . "\nCorreo: " . $correo . "\nAsunto: " . $asunto . "\nTelefono: " . $telefono . "\nMensaje: " . $mensaje;
 mail($destino,"SKL - Tienes un mensaje desde tu web de Contacto", $contenido);
-
+header("location:exito.html");
 ?>
