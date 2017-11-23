@@ -77,7 +77,7 @@
     <!-- begin header -->
     <header id="header" class="container clearfix">
         <!-- begin logo -->
-        <a href="index.html"><img src="images/logo/skl.svg" width="200px" alt=""></a>
+        <a href="index.php"><img src="images/logo/skl.svg" width="200px" alt=""></a>
         <!-- end logo -->
         
         <!-- begin navigation wrapper -->
@@ -87,30 +87,30 @@
         <!-- begin navigation -->
         <nav id="nav">
             <ul id="navlist" class="clearfix">
-                <li class="current"><a href="memorias-usb-basicas-skl.html" rel="submenu1">Memorias USB</a>
+                <li class="current"><a href="memorias-usb-basicas-skl.php" rel="submenu1">Memorias USB</a>
                     <ul id="submenu1" class="ddsubmenustyle">
-                        <li><a href="memorias-usb-basicas-skl.html">USB &ndash; Básicas</a></li>
-                        <li><a href="memorias-usb-tipo-llave-skl.html">USB &ndash; Tipo Llave</a></li>
-                        <li><a href="memorias-usb-tipo-tarjeta-skl.html">USB &ndash; Tipo Tarjeta</a></li>
-                        <li><a href="memorias-usb-ecologicas-skl.html">USB &ndash; Ecológicos</a></li>
-                        <li><a href="memorias-usb-custom-skl.html">USB &ndash; Custom</a></li>
-                        <li><a href="memorias-usb-piel-skl.html">USB &ndash; Piel</a></li>
-                        <li><a href="memorias-usb-doble-entrada-skl.html">USB &ndash; Doble Entrada</a></li>
+                        <li><a href="memorias-usb-basicas-skl.php">USB &ndash; Básicas</a></li>
+                        <li><a href="memorias-usb-tipo-llave-skl.php">USB &ndash; Tipo Llave</a></li>
+                        <li><a href="memorias-usb-tipo-tarjeta-skl.php">USB &ndash; Tipo Tarjeta</a></li>
+                        <li><a href="memorias-usb-ecologicas-skl.php">USB &ndash; Ecológicos</a></li>
+                        <li><a href="memorias-usb-custom-skl.php">USB &ndash; Custom</a></li>
+                        <li><a href="memorias-usb-piel-skl.php">USB &ndash; Piel</a></li>
+                        <li><a href="memorias-usb-doble-entrada-skl.php">USB &ndash; Doble Entrada</a></li>
                     </ul>
                 </li>
-                <li><a href="merchandising-skl.html" rel="submenu2">Merchandising</a>
+                <li><a href="merchandising-skl.php" rel="submenu2">Merchandising</a>
                     <ul id="submenu2" class="ddsubmenustyle">
-                        <li><a href="merchandising-skl.html">Agendas Personalizadas</a></li>
-                        <li><a href="merchandising-skl.html">Cuadernos</a></li>
-                        <li><a href="merchandising-skl.html">Bolsas Publicitarias</a></li>
-                        <li><a href="merchandising-skl.html">Mug</a></li>
-                        <li><a href="merchandising-skl.html">Pulseras Publicitarias</a></li>
-                        <li><a href="merchandising-skl.html">Alcancias</a></li>
-                        <li><a href="merchandising-skl.html">Tazas</a></li>
-                        <li><a href="merchandising-skl.html">Reglas</a></li>
-                        <li><a href="merchandising-skl.html">Llaveros</a></li>
-                        <li><a href="merchandising-skl.html">Pad Mouse</a></li>
-                        <li><a href="merchandising-skl.html">Porta Clips</a>
+                        <li><a href="merchandising-skl.php">Agendas Personalizadas</a></li>
+                        <li><a href="merchandising-skl.php">Cuadernos</a></li>
+                        <li><a href="merchandising-skl.php">Bolsas Publicitarias</a></li>
+                        <li><a href="merchandising-skl.php">Mug</a></li>
+                        <li><a href="merchandising-skl.php">Pulseras Publicitarias</a></li>
+                        <li><a href="merchandising-skl.php">Alcancias</a></li>
+                        <li><a href="merchandising-skl.php">Tazas</a></li>
+                        <li><a href="merchandising-skl.php">Reglas</a></li>
+                        <li><a href="merchandising-skl.php">Llaveros</a></li>
+                        <li><a href="merchandising-skl.php">Pad Mouse</a></li>
+                        <li><a href="merchandising-skl.php">Porta Clips</a>
                             <!--ul>
                                 <li><a href="#">Drop-Down Example</a></li>
                                 <li><a href="#">Multi-Level Drop-Down</a>
@@ -122,33 +122,33 @@
                                 </li>
                                 <li><a href="#">Drop-Down Example</a></li>
                             </ul-->
-                         <li><a href="merchandising-skl.html">Tarjeteros</a></li>
-                         <li><a href="merchandising-skl.html">Post It Personalizados</a></li>
-                         <li><a href="merchandising-skl.html">Resaltadores</a></li>
-                         <li><a href="merchandising-skl.html">Memochips</a></li>
-                         <li><a href="merchandising-skl.html">Portafotos</a></li>
-                         <li><a href="merchandising-skl.html">Fotoshecks Personalizados</a></li>
+                         <li><a href="merchandising-skl.php">Tarjeteros</a></li>
+                         <li><a href="merchandising-skl.php">Post It Personalizados</a></li>
+                         <li><a href="merchandising-skl.php">Resaltadores</a></li>
+                         <li><a href="merchandising-skl.php">Memochips</a></li>
+                         <li><a href="merchandising-skl.php">Portafotos</a></li>
+                         <li><a href="merchandising-skl.php">Fotoshecks Personalizados</a></li>
                             
                         </li>
                     </ul>
                 </li>
-                <li><a href="lapiceros-publicitarios-skl.html" rel="submenu3">Lapiceros</a>
+                <li><a href="lapiceros-publicitarios-skl.php" rel="submenu3">Lapiceros</a>
                     <ul id="submenu3" class="ddsubmenustyle">
-                        <li><a href="lapiceros-publicitarios-skl.html">Plástico</a></li>
-                        <li><a href="lapiceros-publicitarios-skl.html">Metal</a></li>
-                        <li><a href="lapiceros-publicitarios-skl.html">Touch</a></li>
+                        <li><a href="lapiceros-publicitarios-skl.php">Plástico</a></li>
+                        <li><a href="lapiceros-publicitarios-skl.php">Metal</a></li>
+                        <li><a href="lapiceros-publicitarios-skl.php">Touch</a></li>
                     </ul>
                 </li>
-                <li><a href="articulos-tecnologicos-skl.html" rel="submenu4">Tecnología</a>
+                <li><a href="articulos-tecnologicos-skl.php" rel="submenu4">Tecnología</a>
                     <ul id="submenu4" class="ddsubmenustyle">
-                        <li><a href="articulos-tecnologicos-skl.html">Power Bank</a></li>
-                        <li><a href="articulos-tecnologicos-skl.html">Parlantes</a></li>
-                        <li><a href="articulos-tecnologicos-skl.html">Bluetooth</a></li>
-                        <li><a href="articulos-tecnologicos-skl.html">Slefie Stick</a></li>
-                        <li><a href="articulos-tecnologicos-skl.html">Cargadores Solares</a></li>
+                        <li><a href="articulos-tecnologicos-skl.php">Power Bank</a></li>
+                        <li><a href="articulos-tecnologicos-skl.php">Parlantes</a></li>
+                        <li><a href="articulos-tecnologicos-skl.php">Bluetooth</a></li>
+                        <li><a href="articulos-tecnologicos-skl.php">Slefie Stick</a></li>
+                        <li><a href="articulos-tecnologicos-skl.php">Cargadores Solares</a></li>
                     </ul>
                 </li>
-                <li><a href="contacto_skl.html">Contáctanos</a></li>
+                <li><a href="contacto_skl.php">Contáctanos</a></li>
             </ul>
         </nav>
         <!-- end navigation -->
@@ -226,7 +226,7 @@
                              data-speed="1000"
                              data-start="2000"
                              data-easing="easeOutExpo">
-                                <a href="portfolio.html" class="button black">Más Información</a>
+                                <a href="portfolio.php" class="button black">Más Información</a>
                         </div>
                     </li>
                     
@@ -260,7 +260,7 @@
                              data-speed="1000"
                              data-start="2000"
                              data-easing="easeOutExpo">
-                                <a href="portfolio.html" class="button colored">Learn More</a>
+                                <a href="portfolio.php" class="button colored">Learn More</a>
                         </div>
                         
                         <div class="tp-caption video sfr"
@@ -339,7 +339,7 @@
             <h2>Nuestros Productos Promocionales</h2> 
             <div class="one-fourth">
                 <div class="iconbox icon-top">
-                    <a href="memorias-usb-basicas-skl.html">
+                    <a href="memorias-usb-basicas-skl.php">
                         <div class="iconbox-icon"><img src="images/icon-boxes/home/usb.png" alt="Digital Art"></div>
                         <h2 class="iconbox-title">Memorias USB promocionales</h2>
                         
@@ -352,7 +352,7 @@
            
            <div class="one-fourth">     
                 <div class="iconbox icon-top">
-                    <a href="merchandising-skl.html">
+                    <a href="merchandising-skl.php">
                         <div class="iconbox-icon"><img src="images/icon-boxes/home/merchandising.png" alt="Vector Art"></div>
                         <h2 class="iconbox-title">Artículos de Merchandising</h2>
                         
@@ -365,7 +365,7 @@
             
            <div class="one-fourth">     
                 <div class="iconbox icon-top">
-                    <a href="lapiceros-publicitarios-skl.html">
+                    <a href="lapiceros-publicitarios-skl.php">
                         <div class="iconbox-icon"><img src="images/icon-boxes/home/lapiceros.png" alt="Programming"></div>
                         <h2 class="iconbox-title">Lapiceros Publicitarios</h2>
                         <div class="arrow-box-hover"></div>
@@ -375,7 +375,7 @@
             
             <div class="one-fourth column-last">     
                 <div class="iconbox icon-top">
-                    <a href="articulos-tecnologicos-skl.html">
+                    <a href="articulos-tecnologicos-skl.php">
                         <div class="iconbox-icon"><img src="images/icon-boxes/home/tecnologia.png" alt="Photography"></div>
                         <h2 class="iconbox-title">Widgets y Tecnología</h2>
                         <div class="arrow-box-hover"></div>
@@ -397,7 +397,7 @@
             <div class="container clearfix">
                 <div class="three-fourths">
                     <h1><a title="Download (ZIP File) Questionnaire"><strong>¿Tienes un Proyecto a medida? lo Desarollamos</strong>.</a></h1>
-                    <p>Comunicate con nosotros y cuentanos tu proyecto. Nuestros asesores te guiarán para que tengas tu USB PERSONALIZADO lo antes posible. <a href="contacto_skl.html" title="Cuéntanos tu Proyecto">Contáctanos</a></p></p> 
+                    <p>Comunicate con nosotros y cuentanos tu proyecto. Nuestros asesores te guiarán para que tengas tu USB PERSONALIZADO lo antes posible. <a href="contacto_skl.php" title="Cuéntanos tu Proyecto">Contáctanos</a></p></p> 
                 </div>
                 <div class="one-fourth column-last">
                     <a class="entry-image" href="#" title="Download (ZIP File) Questionnaire"><img src="images/mail.png" alt="Mail"></a>
