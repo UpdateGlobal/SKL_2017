@@ -19,7 +19,16 @@
     <!-- end CSS -->
     
     <link href="images/favicon.ico" type="image/x-icon" rel="shortcut icon">
-		
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-110061247-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-110061247-1');
+</script>
+	
 	<title>SKL USB de Doble Entrada</title>
 </head>
 
